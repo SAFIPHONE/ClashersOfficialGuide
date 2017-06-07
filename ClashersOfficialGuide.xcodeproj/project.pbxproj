@@ -14,6 +14,7 @@
 		7F0127C91EE86FB200309B22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F0127C81EE86FB200309B22 /* Assets.xcassets */; };
 		7F0127CC1EE86FB200309B22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F0127CA1EE86FB200309B22 /* LaunchScreen.storyboard */; };
 		7F5F7D821EE885E500D706CA /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F5F7D811EE885E500D706CA /* Cards.swift */; };
+		7F5F7D851EE8909D00D706CA /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F5F7D841EE8909D00D706CA /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		7F0127CB1EE86FB200309B22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F0127CD1EE86FB200309B22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7F5F7D811EE885E500D706CA /* Cards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
+		7F5F7D841EE8909D00D706CA /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			children = (
 				7F5F7D831EE88D6500D706CA /* Model */,
 				7F0127C11EE86FB200309B22 /* AppDelegate.swift */,
+				7F5F7D841EE8909D00D706CA /* Constants.swift */,
 				7F0127C31EE86FB200309B22 /* ViewController.swift */,
 				7F0127C51EE86FB200309B22 /* Main.storyboard */,
 				7F0127C81EE86FB200309B22 /* Assets.xcassets */,
@@ -226,6 +229,7 @@
 				7F5F7D821EE885E500D706CA /* Cards.swift in Sources */,
 				7F0127C41EE86FB200309B22 /* ViewController.swift in Sources */,
 				7F0127C21EE86FB200309B22 /* AppDelegate.swift in Sources */,
+				7F5F7D851EE8909D00D706CA /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
